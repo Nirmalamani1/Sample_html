@@ -1,0 +1,17 @@
+.box {
+    width: 500px;
+    height: 250px;
+    border: 2px solid black;
+    box-shadow: 2px 3px 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 200px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
